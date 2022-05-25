@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 110px;
+    text-align: center;
+    color: #93FFD8;
+    text-shadow: 5px 0 rgb(17, 16, 29);
+    margin: 50px;
+    /* padding: 20px 10px 20px 10px; */
+}
+body {
+    background-color: #548CFF;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+p{
+    font-size: 28px;
+    color: #93FFD8;
+    font-family: 'Indie Flower';
+    font-style: italic;
+}
+img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    margin-top: 16%;
+    color: #CFFFDC;
+    font-family: 'Indie Flower';
+}
